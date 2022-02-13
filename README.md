@@ -45,7 +45,7 @@ Publish the website in the given URL.
             <Cylinder-Area></Cylinder-Area>
         </div>
         <div class="footer">
-            Developed by: Koduru Sanath Kumar Reddy
+            Developed by: vivek
         </div>
     </div>
 </body>
@@ -137,12 +137,12 @@ export class CylinderComponent{
 ### app.component.css:
 ```
 .container{
-    background-color: red;
+    background-color: orange;
     text-align: center;
     height: 720pxx;
 }
 .subcontainer{
-    background-color: orange;
+    background-color: red;
     width: 600px;
     height: 300px;
     text-align: center;
@@ -179,7 +179,7 @@ import { RectangleComponent } from './rectangle/rectangle.component';
 export class AppModule { }
 ```
 ## OUTPUT:
-![Github logo](vivek.png)
+![Github Logo](saaa.png)
 
 
 ## Result:
